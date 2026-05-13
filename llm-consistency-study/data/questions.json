@@ -1,0 +1,488 @@
+[
+
+    {
+        "id": 1,
+        "type": "situational",
+        "question": "Back pain could be because Im starting my cycle in 2 days but I dont know?",
+		"physician_answer": "There are many possible causes of back pain including inflammatory disorders, infections, pregnancy, trauma, musculoskeletal pain and neuropathic pain. Back pain associated with your period can start a few days before your period starts and get better after your period is over. This type of back pain is typically muscular and cramping.Please seek medical attention if: The back pain related with the period is new and you have never had it before. The pain is constant or worsening, or isn't relieved by medications. The pain is severe.",
+		"must_have_statements": "1. Back pain associated with your period can start a few days before your period starts and get better after your period is over.\n2. Back pain associated with Menstruation is typically muscular and cramping.\n3. Please seek medical attention if the pain is constant or worsening, or isn't relieved by medications.\n4. Please seek medical attention if the pain is severe.\n5. Please seek medical attention if the back pain related with the period is new and you have never had it before."
+	},
+
+	{
+		"id": 2,
+		"type": "situational",
+		"question": "Because I have a fatty liver, can I safely take Imodium?",
+		"physician_answer": "Loperamide (Imodium) is used to control and relieve diarrhea, and is available over-the counter or with your doctor's prescription. As this drug goes through metabolism in the liver, the effect of the drug and the possible side effects may be increased in patients suffering from liver diseases. For patients with liver disease It is recommended to use Loperamide with caution, and to consult a healthcare provider about possible alternatives and monitoring of side effects.",
+		"must_have_statements": "1. For patients with liver disease, it is recommended to use Loperamide (Imodium) with caution.\n2. The effect of Loperamide (Imodium) and the possible side effects may be increased in patients suffering from liver diseases.\n3. Patients with liver disease should consult their healthcare provider about possible alternatives and monitoring of side effects when using Loperamide (Imodium)."
+	},
+
+	{
+		"id": 3,
+		"type": "situational",
+		"question": "Can a nausea prescription be taken at the same time as Dramamine?",
+		"physician_answer": "Dimenhydrinate is an over-the-counter medication used to treat motion sickness and nausea. Some nausea medications, such as Bismuth subsalicylate (Pepto-Bismol) and Ondansetron (Zofran), are safe to use in combination with Dimenhydrinate, while others like Prochlorperazine (Compazine) and Metoclopramide (Reglan) may have unwanted interactions.",
+		"must_have_statements": "1. Ondansetron (Zofran) is safe to use in combination with Dimenhydrinate.\n2. Metoclopramide (Reglan) may have unwanted interactions when used in combination with Dimenhydrinate.\n3. It is important to consult your healthcare provider before using Dimenhydrinate in combination with other medications.\n4. Bismuth subsalicylate (Pepto-Bismol) is safe to use in combination with Dimenhydrinate.\n5. Some nausea medications may have unwanted interactions when used in combination with Dimenhydrinate. \n6. Prochlorperazine (Compazine) may have unwanted interactions when used in combination with Dimenhydrinate"
+	},
+
+	{
+		"id": 4,
+		"type": "situational",
+		"question": "Can I take anything with the antibiotic like pepto bismol or Tylenol as needed?",
+		"physician_answer": "It is generally safe to take most antibiotics with Tylenol (acetaminophen) except when taken with the antibiotic isoniazid (Nydrazid). Isoniazid can increase the activity of liver enzymes, which results in Tylenol being converted to toxic metabolites, thus increasing the risk of liver damage. As for Pepto-Bismol (bismuth subsalicylate), it can inhibit the absorption of tetracycline antibiotics from the digestive system. It is therefore recommended to take the two medications 2-3 hours apart from each other.",
+		"must_have_statements": "1. Tylenol (acetaminophen) can generally be taken safely with most antibiotics.\n2. Tylenol should be used with caution when taken with the antibiotic isoniazid (Nydrazid) due to the risk of liver damage.\n3. It is advised that Pepto-Bismol and tetracycline antibiotics are taken 2-3 hours apart.\n4. Pepto-Bismol (bismuth subsalicylate) can inhibit the absorption of tetracycline antibiotics from the digestive system."
+	},
+
+	{
+		"id": 5,
+		"type": "situational",
+		"question": "I am a 33 years old female with right lower abdominal pain , what could it be?",
+		"physician_answer": "Possible causes for right lower abdominal pain in a young female include Appendicitis, Inflammatory bowel disease, Diverticulitis, Kidney stone, urinary tract infection, Ovarian cyst or torsion, Ectopic pregnancy, Pelvic inflammatory disease, and endometriosis. Seek medical attention if the pain is sudden, severe, persistent or accompanied by fever, nausea, vomiting, blood in urine or stool.",
+		"must_have_statements": "1. A possible cause for right lower abdominal pain in a young female can be Urinary tract infection.\n2. A possible cause for right lower abdominal pain in a young female can be Inflammatory bowel disease.\n3. A possible cause for right lower abdominal pain in a young female can be Kidney stones.\n4. A possible cause for right lower abdominal pain in a young female can be Diverticulitis.\n5. A possible cause for right lower abdominal pain in a young female can be Appendicitis.\n6. A possible cause for right lower abdominal pain in a young female can be Pelvic inflammatory disease.\n7. A possible cause for right lower abdominal pain in a young female can be an Ovarian cyst or torsion.\n8. Please seek medical attention if the pain is accompanied by nausea and vomiting.\n9. Please seek medical attention if the pain is sudden and severe.\n10. Please seek medical attention if you have noticed blood in your stool.\n11. A possible cause for right lower abdominal pain in a young female can be Endometriosis.\n12. Please seek medical attention if the pain is accompanied by a fever.\n13. Please seek medical attention if you have noticed blood in your urine.\n14. A possible cause for right lower abdominal pain in a young female can be Ectopic pregnancy.\n15. Please seek medical attention if the pain does not go away or gets worse."
+	},
+
+	{
+		"id": 6,
+		"type": "situational",
+		"question": "I am a healthy adult but my ALT is elevated can this also cause diarrhea?",
+		"physician_answer": "Elevated levels of ALT in the blood do not directly cause diarrhea. Alanine transaminase (ALT) is an enzyme found mainly in the liver. Elevated ALT levels may indicate liver injury or disease, which could be caused by a wide range of conditions, such as non alcoholic or alcoholic fatty liver, viral hepatitis and drugs adverse effects. Conditions that injure the liver may also cause gastrointestinal disturbances, including diarrhea. However, diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections. A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a thorough physical examination, detailed history taking, blood tests, and an abdominal ultrasound if needed. Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement or if you experience fever, severe pain, dehydration, or bloody stools.",
+		"must_have_statements": "1. Contact your healthcare provider if the diarrhea persists for more than 2 days without improvement\n2. Further investigations may be needed such as blood tests and an abdominal ultrasound for abnormal liver enzyme levels and diarrhea.\n3. Conditions that injure the liver may cause gastrointestinal disturbances, including diarrhea.\n4. A healthcare provider will investigate abnormal liver enzyme levels and diarrhea by conducting a physical examination and detailed history taking.\n5. Diarrhea can also be linked to conditions unrelated to the liver such as gastrointestinal infections.\n6. Elevated ALT levels may indicate liver injury or disease.\n7. Contact your healthcare provider if you experience fever, severe pain, dehydration or bloody stools."
+	},
+
+	{
+		"id": 7,
+		"type": "situational",
+		"question": "If the muscle aches continue without exercising, should I be concerned?",
+		"physician_answer": "If your muscle ache continues without exercising, you should consult with your healthcare provider in order to obtain an accurate diagnosis. There are many causes of muscle aches, including overuse injury, trauma, viral and bacterial infections, medications, and rheumatic disease. Your doctor will take a full history, perform a physical examination, and possibly request laboratory studies and imaging.",
+		"must_have_statements": "1. If muscle ache continues without exercising, it is recommended to consult with a healthcare provider for an accurate diagnosis."
+	},
+
+	{
+		"id": 8,
+		"type": "situational",
+		"question": "Is accutane like an antibiotic and would it affect a baby if I got pregnant?",
+		"physician_answer": "Isotretinoin (Accutane) is a form of vitamin A that helps to reduce the amount of oil produced by your skin's oil glands, but it's not an antibiotic. This drug is used to treat severe acne that has not responded to other treatments. It's important to note that this medication can cause severe birth defects or even fetus death if taken during pregnancy. It's crucial to have a negative pregnancy test before starting Isotretinoin and to use two forms of birth control throughout the treatment. If you're considering becoming pregnant or are already pregnant, you should speak to your healthcare provider about alternatives.\n",
+		"must_have_statements": "1. Isotretinoin (Accutane) works by reducing the amount of oil released by oil glands in the skin.\n2. Isotretinoin (Accutane) is a form of vitamin A, not an antibiotic drug.\n3. Two forms of birth control are required to prevent pregnancy while taking Isotretinoin (Accutane).\n4. Consultation with a healthcare provider is necessary about any chance of present or planned pregnancy and about alternatives before taking Isotretinoin (Accutane).\n5. A single dose of Isotretinoin (Accutane) can cause severe birth defects or death of a baby.\n6. A negative pregnancy test is required before taking Isotretinoin (Accutane)."
+	},
+
+	{
+		"id": 9,
+		"type": "situational",
+		"question": "Is that normal for shoulder pain to come with breathing",
+		"physician_answer": "If you are experiencing shoulder pain while breathing, it could be due to musculoskeletal problems. However, it could also be linked to issues with your lungs, pleura, abdomen or heart. It is important to consult a doctor for an evaluation. If you experience chest pain or shortness of breath along with your shoulder pain, seek immediate medical attention.",
+		"must_have_statements": "1. Shoulder pain associated with breathing can be the result of abdominal issues.\n2. You should seek immediate medical attention if your shoulder pain is accompanied by shortness of breath.\n3. Shoulder pain associated with breathing can be the result of lung and pleura issues.\n4. Shoulder pain associated with breathing can be the result of musculoskeletal issues.\n5. You should seek immediate medical attention if you have chest pain.\n6. Shoulder pain associated with breathing should be evaluated by a doctor.\n7. Shoulder pain associated with breathing can be the result of heart issues."
+	},
+
+	{
+		"id": 10,
+		"type": "situational",
+		"question": "Will the antibiotics prevent the lyme disease from progressing?",
+		"physician_answer": "Antibiotic treatment is most effective in preventing the progression of Lyme disease when started in the early stage, which is usually characterized by an expanding circular red rash and flu-like illness. Within 20 days of starting treatment, most patients experience a complete resolution of signs and symptoms. However, antibiotics may not be as effective in later stages of the disease, and symptoms may persist. In such cases, some patients may need a second course of antibiotic therapy. While most cases of Lyme disease are successfully treated with antibiotics, some people may experience persisting symptoms such as fatigue, muscle pain, joint pain, headache, and cognitive difficulties. These symptoms may last for over six months after treatment and are known as post-treatment Lyme disease syndrome (PTLDS).",
+		"must_have_statements": "1. Antibiotics can be less effective at completely resolving symptoms if not taken in the early stages of Lyme disease.\n2. Most cases of Lyme disease are successfully treated with antibiotics.\n3. Most patients experience a complete resolution of signs and symptoms within 20 days of starting antibiotic treatment for Lyme disease.\n4. Antibiotic treatment is very effective at preventing Lyme disease from progressing when started in the early stage of Lyme disease."
+	},
+
+	{
+		"id": 11,
+		"type": "situational",
+		"question": "Benadryl makes me super sleepy can I take like Claritin during the day?",
+		"physician_answer": "Diphenhydramine (Benadryl) and Loratadine (Claritin) are antihistamines used to treat allergic symptoms of the upper respiratory tract, the eye, and the skin. Diphenhydramine (Benadryl) is a first generation antihistamine and frequently causes sedation, while loratadine (Claritin) is a second generation antihistamine and is less likely to cause sedation. Second-generation antihistamines also cause fewer cognitive side effects (such as reduced attention span or working memory). Hence, loratadine (Claritin) or other second-generation antihistamines such as cetirizine (Zytrec) or fexofenadine (Allegra allergy) could be a suitable replacement for diphenhydramine (Benadryl) during daytime. ",
+		"must_have_statements": "1. Loratadine (Claritin) could be a suitable replacement for diphenhydramine (Benadryl) during daytime.\n2. Loratadine (Claritin) is a second-generation antihistamine and is less likely to cause sedation.\n3. Diphenhydramine (Benadryl) is a first-generation antihistamine and frequently causes sedation."
+	},
+
+
+	{
+		"id": 12,
+		"type": "situational",
+		"question": "I started taking lisinopril yesterday. Should my blood pressure be normal by now",
+		"physician_answer": "The antihypertensive effects of lisinopril are usually noticeable within a few hours of taking it orally. The peak blood pressure reduction happens around 6 hours later. While taking the daily dosage, the blood pressure should decrease, but it may still be higher than the normal range. If, after a few weeks, the blood pressure remains high, the patient should consult a doctor as the treatment may need to be adjusted.",
+		"must_have_statements": "1. While taking the daily dosage of Lisinopril, blood pressure should be lowered.\n2. Blood pressure might still be higher than the normal range while taking Lisinopril.\n3. Lisinopril's antihypertensive activity begins within several hours after the first oral administration.\n4. If blood pressure is still higher than the normal range within a few weeks of taking Lisinopril, it is advised to consult a doctor."
+	},
+
+
+	{
+		"id": 13,
+		"type": "situational",
+		"question": "I am a young healthy adult, flying to Brazil next month. What vaccination should I take?",
+		"physician_answer": "Before traveling to Brazil, it's important to get vaccinated for Yellow Fever and Typhoid, as well as ensuring you're up to date with routine vaccines such as Chickenpox (Varicella), Diphtheria-Tetanus-Pertussis, Flu (influenza), Measles-Mumps-Rubella (MMR), Polio, Shingles, Hepatitis A, Hepatitis B, and COVID-19. Additional vaccines may be necessary based on age, medical history, vaccination status, and the planned activities for your trip.",
+		"must_have_statements": "1. A young healthy adult traveling to Brazil should get vaccinated for Yellow Fever.\n2. A young healthy adult traveling to Brazil should get vaccinated for Typhoid.\n3. Further vaccines may be needed depending on age, medical history, and vaccination status."
+	},
+
+
+	{
+		"id": 14,
+		"type": "situational",
+		"question": "I am only 22 so am I not a bit young to have an enlarged prostate?",
+		"physician_answer": "Enlarged prostate is a common condition that predominantly affects men over 50. In that population age, it is most commonly caused by benign prostatic hyperplasia (BPH) or, in rare cases, cancer. Symptoms of an enlarged prostate include frequent urination, difficulty urinating, pain, weak urine flow, and more. In sexually active young males, it can be a manifestation of prostatitis caused by a sexually transmitted infection. Therefore, it is highly recommended to seek medical evaluation and treatment, which will depend on the underlying cause.",
+		"must_have_statements": "1. In sexually active young males prostatitis, inflammation of the prostate gland, can cause an enlarged prostate.\n2. Enlarged prostate is a common condition that predominantly affects men over the age of 50.\n3. Benign prostatic hyperplasia (BPH) is a common cause of an enlarged prostate in men over age 50.\n4. In sexually active young males, enlarged prostate can be a manifestation of a sexually transmitted infection."
+	},
+
+
+	{
+		"id": 15,
+		"type": "situational",
+		"question": "Can I take Zyrtec and benedryl at the same time?",
+		"physician_answer": "Cetirizine (Zyrtec) and diphenhydramine (Benedryl) are both antihistamine medications and taking both together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination. It is possible to overdose on antihistamines. Antihistamine overdose includes symptoms such as drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms. Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress. Seek immediate medical attention in case of suspicion of an antihistamine overdose.",
+		"must_have_statements": "1. Seek immediate medical attention in case of suspicion of an antihistamine overdose.\n2. Taking both cetirizine (Zyrtec) and diphenhydramine (benedryl) together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination.\n3. It is possible to overdose on antihistamines."
+	},
+
+
+	{
+        "id": 16,
+        "type": "informational",
+        "question": "What is colchicine",
+		"physician_answer": "Colchicine (Colcrys, Gloperba, Mitigare, and Myinfla) is an anti-inflammatory drug used to treat many inflammatory conditions including Gout, Pericarditis, Behcet's disease, and Familial Mediterranean Fever. Although its mechanism of action is still being studied, it has been shown to impair multiple proinflammatory processes, such as neutrophil recruitment, and decrease levels of proinflammatory cytokines.",
+		"must_have_statements": "1. Colchicine is used to treat Pericarditis.\n2. Colchicine is used to treat Gout.\n3. Colchicine is used to treat Familial Mediterranean Fever.\n4. Colchicine is used to treat Behcet's disease.\n5. Colchicine is an anti-inflammatory drug.\n6. Colchicine mechanism of action is still being explored.\n7. Colchicine impairs multiple proinflammatory processes such as neutrophil recruitment.\n8. Colchicine decreases levels of the proinflammatory cytokines."
+	},
+
+	{
+		"id": 17,
+		"type": "informational",
+		"question": "Are there other medications similar to the buspirone?",
+		"physician_answer": "Buspirone (Buspar) is a drug prescribed for generalized anxiety disorder (GAD) or for short term relief of anxiety symptoms. It may also be added to selective serotonin reuptake inhibitors (SSRI) to augment depression treatment .Buspirone is a member of the azapirone class of drugs. These drugs have a different mechanism of action and more tolerable adverse effects compared to other anti-anxiolytic drugs. As of this time, Buspirone (buspar) is the only drug of this class which is approved by the FDA. Gepirone (Ariza, Variza) is an azapirone which is currently under review by the FDA but still not approved. Other medications used to treat GAD and anxiety symptoms include drugs from the SSRI family, SNRIs (serotonin norepinephrine reuptake inhibitors), benzodiazepines, antipsychotics, mirtazapine, and tricyclic antidepressants (TCA). These drugs all work by different mechanisms of action compared to buspirone and have different adverse effect profiles and should be discussed with a licensed physician before starting treatment.Buspirone (Buspar) is a drug prescribed for generalized anxiety disorder (GAD) or for short term relief of anxiety symptoms. It may also be added to selective serotonin reuptake inhibitors (SSRI) to augment depression treatment .Buspirone is a member of the azapirone class of drugs. These drugs have a different mechanism of action and more tolerable adverse effects compared to other anti-anxiolytic drugs. As of this time, Buspirone (buspar) is the only drug of this class which is approved by the FDA. Gepirone (Ariza, Variza) is an azapirone which is currently under review by the FDA but still not approved. Other medications used to treat GAD and anxiety symptoms include drugs from the SSRI family, SNRIs (serotonin norepinephrine reuptake inhibitors), benzodiazepines, antipsychotics, mirtazapine, and tricyclic antidepressants (TCA). These drugs all work by different mechanisms of action compared to buspirone and have different adverse effect profiles and should be discussed with a licensed physician before starting treatment.",
+		"must_have_statements": "1. Buspirone is part of the azapirone class of drugs which have a different mechanism of action than other anti-anxiolytic drugs.\n2. Gepirone (Ariza, Variza) is from the same drug class as of Buspirone (Buspar) and is currently under review by the FDA but still not approved."
+	},
+
+	{
+		"id": 18,
+		"type": "informational",
+		"question": "Are the stomach flu and the flu the same thing?",
+		"physician_answer": "No. Flu refers to influenza, a respiratory illness caused by influenza viruses. The most common symptoms of influenza include fever, nonproductive cough, and myalgia. Stomach flu refers to viral gastroenteritis, a viral infection of the gastrointestinal tract caused by many different viruses. The most common symptoms of viral gastroenteritis include nausea, vomiting, diarrhea, fever and abdominal pain.",
+		"must_have_statements": "1. The most common symptoms of influenza include fever, nonproductive cough, and myalgia.\n2. The most common symptoms of viral gastroenteritis include nausea, vomiting, diarrhea, fever and abdominal pain.\n3. Flu refers to influenza, a respiratory illness caused by influenza viruses.\n4. Stomach flu refers to viral gastroenteritis which is a viral infection of the gastrointestinal tract."
+	},
+
+	{
+		"id": 19,
+		"type": "informational",
+		"question": "Are lutein and omega 3 good for vision?",
+		"physician_answer": "Lutein is a carotenoid compound which is available in green leafy vegetables (kale, broccoli, spinach, lettuce, and peas), along with other foods, such as eggs, pistachios, and corn. Lutein is found in high concentration in the retina, which is the light sensitive area of the eye. Studies have attributed anti-inflammatory, anti-oxidative, and blue light-filtering effects to lutein. The studies suggest that lutein may protect against and reduce the severity of many eye diseases. By reducing damage to the retina, lutein may enhance vision in both normal and diseased eyes. Docosahexaenoic acid (DHA), an omega-3 fatty acid found naturally in fish, is also found in the retina. DHA is involved in the process of transforming light to a neurological signal and generating light sensitive pigment. Studies on the effects of DHA (omega 3) found mixed results on improvement of vision, but no studies showed a negative effect. There is no medical recommendation for omega 3 consumption in eye diseases or to improve vision.",
+		"must_have_statements": "1. Lutein may protect against and reduce severity the of many eye diseases.\n2. Lutein reduces damage to the retina, which enhances vision in both normal and diseased eyes.\n3. Studies on the effects of DHA (omega 3) found mixed results on improvement of vision.\n4. There is no medical recommendation for omega 3 consumption in eye diseases or to improve vision.\n5. Lutein is found to have a positive effect on vision."
+	},
+
+	{
+		"id": 20,
+		"type": "informational",
+		"question": "Am I contagious with respiratory infection?",
+		"physician_answer": "Most respiratory tract infections are contagious and can be spread through sneezing and coughing. Respiratory infections are commonly caused by viruses, but can also be caused by bacteria and fungi. Protective measures such as wearing a mask, washing hands, sneezing and coughing into your elbow or a tissue, and vaccinating against respiratory infections can reduce the transmission rate of respiratory infections.",
+		"must_have_statements": "1. Most respiratory tract infections are contagious."
+	},
+
+	{
+		"id": 21,
+		"type": "informational",
+		"question": "How does Genital herpes and HPV differ?",
+		"physician_answer": "HPV infections and genital herpes are sexually transmitted infections that are caused by different viruses and have distinct clinical presentations. Genital herpes is caused by the herpes simplex virus (HSV). Both strains of herpes simplex virus, HSV-1 and HSV-2, can cause genital and oral herpes lesions. Genital herpes can manifest with fluid-filled blisters on or around the genitals that burst and develop into sores that typically resolve within 1-2 weeks. During the first infection, Swollen lymph nodes and flu-like symptoms may also be experienced.. Outbreaks of genital lesions can reoccur, as the virus never leaves the body after initial infection. Most infected individuals are asymptomatic or only experience mild symptoms. HSV is spread through vaginal, anal, or oral sex, and contact with the skin, saliva, or sores of a person who has the infection. Oral antiviral therapy can be used to treat patients with recurrent genital lesions to reduce the severity of symptoms and lower the risk of transmission to an uninfected sexual partner.\\n\\nA HPV infection is caused by the human papillomavirus (HPV). There are many different strains of HPV. Low-risk strains can cause warts on the skin or genitals, whereas high-risk strains of HPV are associated with an increased risk of several types of cancer, such as cervical, throat, mouth, anus and genital cancer. HPV is spread by vaginal, anal, or oral sex, and close skin-to-skin contact with someone who has the infection. Most people with HPV are unaware they have the infection as they never develop symptoms and the body's immune system is able to clear the virus. There is no vaccine for herpes yet, but a HPV vaccine is available.",
+		"must_have_statements": "1. Genital herpes and HPV are sexually transmitted infections caused by different viruses.\n2. A HPV infection is caused by the human papillomavirus (HPV).\n3. Genital herpes can manifest with fluid-filled blisters on or around the genitals that burst and develop into sores that typically resolve within 1-2 weeks.\n4. Genital herpes is caused by the herpes simplex virus (HSV).\n5. Low-risk strains of HPV can cause warts on the skin or genitals.\n6. High-risk strains of HPV are associated with an increased risk of several types of cancer, such as cervical, throat, mouth, anus and genital cancer."
+	},
+
+	{
+		"id": 22,
+		"type": "informational",
+		"question": "I have a question, can you be diagnosed with shingles more than once?",
+		"physician_answer": "Shingles is a viral infection caused by the varicella-zoster virus. This is the same virus that causes chickenpox, and it can resurface years or decades later as shingles multiple times, causing a blistering rash on the torso or the face. Other symptoms may include headache, fever, or fatigue. Doctors recommend that people over age 50 get vaccinated against the virus to reduce the risk of shingles.",
+		"must_have_statements": "1. You can get shingles multiple times."
+	},
+
+	{
+		"id": 23,
+		"type": "informational",
+		"question": "How is HRV different from heart rate?",
+		"physician_answer": "Heart rate (HR) is the number of times a heart beats in a minute, measured in beats per minute (bpm).Heart Rate Variability (HRV) is the measure of variation in time interval between heartbeats and is measured in milliseconds (ms). Low HRV is associated with increased risk of cardiovascular disease. High HRV is associated with higher fitness levels and resilience to stress.",
+		"must_have_statements": "1. Heart Rate Variability (HRV) measures the variation in time interval between heartbeats, in milliseconds (ms).\n2. Heart rate (HR) measures how many times a heart beats in a minute, in beats per minute (bpm)."
+	},
+
+	{
+		"id": 24,
+		"type": "informational",
+		"question": "How could I be the only person in the house with a viral infection?",
+		"physician_answer": "Not everyone in the same household who is exposed to a virus will develop symptoms. The risk of getting infected and developing symptoms depends on factors such as immune system competence, vaccination status, level of exposure, and adherence to precautions. Also, viral symptoms may take time to appear.",
+		"must_have_statements": "1. Not everyone in the same household exposed to a virus will develop symptoms.\n2. Upon getting exposed to a virus, the risk of getting infected depends on immune system competence.\n3. Upon getting exposed to a virus, the risk of getting infected depends on vaccination status.\n4. Upon getting exposed to a virus, the risk of getting infected depends on level of exposure.\n5. Upon getting exposed to a virus, the risk of getting infected depends on adherence to precautions.\n6. Upon getting exposed to a virus, the risk of developing symptoms depends on immune system competence.\n7. Upon getting exposed to a virus, the risk of developing symptoms depends on vaccination status.\n8. Upon getting exposed to a virus, the risk of developing symptoms depends on level of exposure.\n9. Upon getting exposed to a virus, the risk of developing symptoms depends on adherence to precautions."
+	},
+
+	{
+		"id": 25,
+		"type": "informational",
+		"question": "Does the bacteria determine the antibiotic?",
+		"physician_answer": "Antibiotics are a type of antimicrobial substance designed to target specific mechanisms or components that are unique to certain types of bacteria. Hence, the bacteria\\u2019s species is a crucial factor in deciding on the right treatment for a bacterial infection. Having said that, there are additional important factors in determining the right antibiotic agent such as the severity of infection, site of infection, sensitivity testing, potential side effects of the drug, patient's medical history, and allergies.",
+		"must_have_statements": "1. The species of bacteria is a crucial factor in deciding the right treatment for a bacterial infection.\n2. The patient's allergies are an important factor in determining the right antibiotic agent.\n3. Potential side effects of the drug are an important factor in determining the right antibiotic agent.\n4. The severity of infection is an important factor in determining the right antibiotic agent.\n5. The site of infection is an important factor in determining the right antibiotic agent.\n6. The patient's medical history is an important factor in determining the right antibiotic agent.\n7. Sensitivity testing is an important factor in determining the right antibiotic agent."
+	},
+
+	{
+		"id": 26,
+		"type": "informational",
+		"question": "Does bronchitis turn into pneumonia?",
+		"physician_answer": "Acute bronchitis is inflammation of the bronchi, commonly caused by a respiratory viral infection, bacterial infection, or irritants such as smoke. It usually resolves without treatment in 1-3 weeks, but non-pharmacological cough relief may help. Pneumonia is more severe with fever, fatigue, and difficulty breathing. Both infections have similar symptoms, but differentiation can be done by a physical examination and chest X-ray. It's uncommon for bronchitis to turn into pneumonia, but it's possible - especially with bacterial bronchitis. A physician should be consulted if bronchitis symptoms worsen or do not resolve within three weeks.",
+		"must_have_statements": "1. It's uncommon for bronchitis to turn into pneumonia, but it's possible.\n2. In cases where bronchitis does not resolve in three weeks, one should be checked by a physician for pneumonia.\n3. In cases of worsening of symptoms, one should be checked by a physician for pneumonia."
+	},
+
+	{
+		"id": 27,
+		"type": "informational",
+		"question": "Depression has relation with memory loss?",
+		"physician_answer": "Depression is a medical condition characterized by negative effects on mood, cognition, and behavior. Memory issues, particularly with short-term and working memory, are possible symptoms. Long-term memory and procedural memory are less affected. Pseudodementia, a decline in cognitive function including memory loss, is associated with depression and can also occur due to lack of energy or effort. If you are experiencing these symptoms, seek diagnosis and treatment from a healthcare professional.",
+		"must_have_statements": "1. If you experience symptoms of depression or notice a memory loss you should contact your healthcare provider for diagnosis and treatment.\n2. Depression is associated with pseudodementia which is an apparent intellectual decline, including memory loss.\n3. Memory issues, particularly with short-term and working memory, are possible symptoms of depression.\n4. Impaired long-term memory and procedural memory are less associated with depression."
+	},
+
+	{
+		"id": 28,
+		"type": "informational",
+		"question": "Do bananas help with diarrhea?",
+		"physician_answer": "When experiencing diarrhea, bananas can be helpful due to their high content of pectin and starch. Green bananas contain even more pectin and starch than ripe ones, making them even more beneficial. However, fresh fruits and vegetables should be avoided, except for bananas, as they may worsen diarrhea. Bananas are also a good source of potassium, which helps to replace lost nutrients. A long-term restrictive diet like the BRAT diet (bananas, rice, applesauce, and toast) may provide suboptimal nutrition and should not be used for more than 24 hours. In addition, in cases of diarrhea, it is recommended to avoid dairy products since lactose, a type of sugar present in dairy, can worsen symptoms. If diarrhea persists for more than one day or is accompanied by dehydration, fever, or rectal bleeding, it is recommended to contact a healthcare provider for medical advice.",
+		"must_have_statements": "1. Bananas can help with diarrhea as they contain pectin and starch."
+	},
+
+	{
+		"id": 29,
+		"type": "informational",
+		"question": "Can Clindamyam be used to treat a UTI",
+		"physician_answer": "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection. This drug should only be considered in those with multiple allergies to the standard treatment. Antibiotics commonly used to treat urinary tract infections include Trimethoprim, sulfamethoxazole (Bactrim, Septra), Nitrofurantoin (Macrobid, Macrodantin), Ciprofloxacin (Cipro), and Fosfomycin (Monurol).",
+		"must_have_statements": "1. Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection.\n2. Clindamycin should only be considered in those with multiple allergies to the standard treatment."
+	},
+
+	{
+		"id": 30,
+		"type": "informational",
+		"question": "Are there more than one type of nausea medication?",
+		"physician_answer": "Yes, there are a variety of medications used to treat nausea from different drug classes. The most appropriate medication depends on the underlying cause of the nausea. For example, OTC antihistamines, such as meclizine (Antivert), are used to treat nausea caused by motion sickness or inner ear problems. OTC bismuth subsalicylate (Pepto-Bismol) can be taken to relieve nausea due to indigestion. OTC pyridoxine (vitamin B6) can treat pregnancy-related nausea. Serotonin antagonists, such as Ondansetron (Zofran), are prescribed for nausea due to chemotherapy, radiation, and anesthesia. Serotonin antagonists can also treat nausea during pregnancy that is severe or difficult to manage.",
+		"must_have_statements": "1. Serotonin antagonists, such as Ondansetron (Zofran), are prescribed for nausea due to chemotherapy, radiation, and anesthesia.\n2. Serotonin antagonists, such as Ondansetron (Zofran), can also treat nausea during pregnancy that is severe or difficult to manage.\n3. The most appropriate nausea medication depends on the underlying cause of the nausea.\n4. OTC antihistamines, such as meclizine (Antivert), are used to treat nausea caused by motion sickness or inner ear problems.\n5. There are a variety of medications used to treat nausea from different drug classes.\n6. OTC pyridoxine (vitamin B6) can treat pregnancy-related nausea.\n7. OTC bismuth subsalicylate (Pepto-Bismol) can be taken to relieve nausea due to indigestion."
+	},
+
+	{
+		"id": 31,
+		"type": "informational",
+		"question": "Is flu test same as influenza test?",
+		"physician_answer": "The flu test and the influenza test are the same thing. Flu is a common name for an acute respiratory illness caused by the influenza virus. If you experience a sudden fever, cough, and muscle aches during the winter months, it's likely that you have influenza. In such cases, an influenza test can be taken to confirm the diagnosis. However, in most cases, there's no need for a test since the symptoms during flu season are enough to diagnose the illness. The illness is self-limited in individuals under 65 years of age who are normally healthy. However, older patients or those at higher risk for complications may need a test. To perform the test, a sample is collected from the throat or nose and analyzed in the lab using RT-PCR or antigen immunofluorescence assays.",
+		"must_have_statements": "1. Flu is the common name for an acute respiratory illness caused by the virus influenza.\n2. Flu test is the same as influenza test."
+	},
+
+	{
+		"id": 32,
+		"type": "informational",
+		"question": "Is Bacterial Vaginosis an STD?",
+		"physician_answer": "Bacterial vaginosis is a vaginal infection caused by a bacterial imbalance of the normal bacteria found in the vagina and is not a sexually transmitted disease. In bacterial vaginosis, the normal hydrogen peroxide and lactic-acid Lactobacillus species in the vagina are replaced with a high concentration of anaerobic bacteria. The cause of the microbial shift that precipitates BV is not fully understood, and it has been associated with having multiple sex partners, a new sex partner, lack of condom use, douching, and HSV-2 seropositivity.",
+		"must_have_statements": "1. Bacterial vaginosis is a vaginal infection caused by bacterial imbalance of the normal bacteria found in the vagina.\n2. Bacterial vaginosis is not a sexually transmitted disease."
+	},
+
+	{
+		"id": 33,
+		"type": "informational",
+		"question": "Is viral pharyngitis an allergy thing?",
+		"physician_answer": "An allergy is when a common substance in the environment triggers an exaggerated response from the body's immune system. In contrast, viral pharyngitis involves an immune response against a virus that infects the pharynx, causing inflammation.",
+		"must_have_statements": "1. Viral pharyngitis involves an immune response but against a virus that infects the pharynx causing inflammation.\n2. An allergy is when a common substance in the environment triggers an exaggerated response from the body's immune system."
+	},
+
+	{
+		"id": 34,
+		"type": "informational",
+		"question": "Is pyridium the one that makes the urine orange?",
+		"physician_answer": "Phenazopyridine (Pyridium) is a medication commonly used to treat pain from urinary tract infections, and a common and harmless side effect of this drug is orange-colored urine. It is important to know that while Phenazopyridine is effective in helping with the pain caused by urinary tract infections, it is ineffective in treating the infection. Therefore, advising your healthcare provider for evaluation and proper treatment is essential.",
+		"must_have_statements": "1. Phenazopyridine (Pyridium) is a medication used to treat pain from urinary tract infections.\n2. Phenazopyridine (Pyridium) can cause orange-colored urine as a side effect.\n3. Orange-colored urine caused as a side effect by Phenazopyridine (Pyridium) is harmless.\n4. Phenazopyridine is ineffective in treating the infection itself.\n5. Advising your healthcare provider for evaluation and proper treatment for a urinary tract infection is essential."
+	},
+
+	{
+		"id": 35,
+		"type": "informational",
+		"question": "Is blepharitis contagious?",
+		"physician_answer": "Blepharitis is an inflammation of the eyelid that causes red, swollen, and irritated eyelids. The exact cause of blepharitis is unknown, but it might be associated with bacterial buildup, seborrheic dermatitis, clogged oil glands in the eyelids, rosacea, allergies, and eyelash mites. While it could be caused by bacterial buildup on the eyelids, that bacteria is normal skin bacteria, which can not transfer and infect other people. Therefore, blepharitis is not a contagious disease.",
+		"must_have_statements": "1. Blepharitis is not contagious."
+	},
+
+
+	{
+		"id": 36,
+		"type": "informational",
+		"question": "Is poison ivy contagious between people?",
+		"physician_answer": "Poison Ivy is a plant that, when in direct contact with the skin, can cause a skin reaction called contact dermatitis. This rash is not contagious and cannot be transferred between people. However, it is possible to develop the rash by touching objects that have been in contact with the plant's oil, such as clothes, tools, or animal fur. Additionally, being in the vicinity of burning poison ivy can also cause contact dermatitis. It's worth noting that the same substance causing the rash in poison ivy can also be found in other plants like poison oak, poison sumac, ginkgo fruit, and mango peels.",
+		"must_have_statements": "1. Poison ivy causes contact dermatitis through direct contact with the plant.\n2. It is rare but possible to develop contact dermatitis from poison ivy by touching objects with the plant's oil on them.\n3. The rash caused by poison ivy is not contagious and cannot be transferred between people."
+	},
+
+	{
+		"id": 37,
+		"type": "informational",
+		"question": "What is vestibular nueritis?",
+		"physician_answer": "Vestibular neuritis is an inner ear disorder that causes symptoms such as sudden, severe vertigo, dizziness, balance problems, nausea, and vomiting. It is generally understood to be a viral or postviral inflammatory disorder affecting the vestibulocochlear nerve, which normally sends information about your balance and head position to the brain. Patients with vestibular neuritis generally suffer from severe vestibular symptoms for one to two days, followed by a gradual diminution of symptoms and a return to equilibrium. Still, residual imbalance and nonspecific dizziness may persist for months.",
+		"must_have_statements": "1. Patients with vestibular neuritis generally suffer from severe vestibular symptoms for one to two days and a gradual diminution of symptoms and a return of equilibrium.\n2. Vestibular neuritis causes symptoms such as dizziness.\n3. Vestibular neuritis causes symptoms such as sudden, severe vertigo.\n4. Vestibular neuritis is an inner ear disorder.\n5. Vestibular neuritis causes symptoms such as nausea and vomiting.\n6. Vestibular neuritis causes symptoms such as balance problems."
+	},
+
+	{
+		"id": 38,
+		"type": "informational",
+		"question": "What is creatinine?",
+		"physician_answer": "The body produces creatinine as a byproduct of muscle cells breaking down creatine phosphate for energy. The kidneys filter creatinine out of the blood and eliminate it through urine. Creatinine levels that are high in the blood and low in urine may indicate kidney problems. Doctors can use creatinine levels, along with patient age, gender, and race, to calculate eGFR, which helps assess kidney function. Healthcare providers may request creatinine testing as part of a regular check-up or if kidney disease is suspected. It's worth noting that intense exercise and some medications can lead to temporarily elevated serum creatinine levels.",
+		"must_have_statements": "1. Creatinine is a byproduct of muscle cells breaking down creatine phosphate for energy.\n2. The kidneys filter creatinine out of the blood and eliminate it through urine.\n3. High creatinine levels in the blood and low levels in urine may indicate kidney problems.\n4. Intense exercise can lead to temporarily elevated serum creatinine levels.\n5. Some medications can lead to temporarily elevated serum creatinine level."
+	},
+
+	{
+		"id": 39,
+		"type": "informational",
+		"question": "Is saxenda a glp1 blocker as well?",
+		"physician_answer": "Saxenda is a GLP-1 receptor agonist that contains liraglutide. It mimics the action of GLP-1 hormone, enhancing insulin release, decreasing liver glucose production, reducing appetite, and slowing gastric emptying.",
+		"must_have_statements": "1. Saxenda is a GLP-1 receptor agonist."
+	},
+
+	{
+		"id": 40,
+		"type": "informational",
+		"question": "Is mycofenolate an immunosuppressant?",
+		"physician_answer": "Mycophenolate mofetil, also known as Cellcept or Myfortic, is a medication that suppresses the immune system. Its active form helps to prevent the growth of immune cells and antibody formation. The drug is mainly used to prevent organ transplant rejection and is typically taken in combination with other immunosuppressive drugs.",
+		"must_have_statements": "1. Mycophenolate mofetil (Cellcept, Myfortic) is an immunosuppressive agent."
+	},
+
+	{
+		"id": 41,
+		"type": "informational",
+		"question": "Is it common to have an abscess with no pain?",
+		"physician_answer": "An abscess is a pocket of pus that can develop anywhere in your body, including the skin, mouth, and internal organs. Typically, pain is the primary symptom of an abscess, and it is often what prompts patients to seek medical help. However, some abscesses can be painless due to factors like size, location, and the patient's individual characteristics. If you suspect that you have an abscess, it is crucial to consult with a healthcare provider for proper diagnosis and treatment. Medical intervention is usually necessary for abscesses.",
+		"must_have_statements": "1. Not experiencing pain does not exclude the presence of an abscess.\n2. If you suspect you might have an abscess, you should consult your healthcare provider for diagnosis and treatment.\n3. A common symptom of an abscess is pain.\n4. Less commonly, an abscess can be painless due to its location, size, patient's characteristics and other causes."
+	},
+
+	{
+		"id": 42,
+		"type": "informational",
+		"question": "Is prednisone a cortisone type medication?",
+		"physician_answer": "Yes, Prednisone is a synthetic drug derived from cortisone. Prednisone, Cortisone, and Hydrocortisone are corticosteroid medications used to decrease inflammation and suppress the immune system in cases of overactivity.",
+		"must_have_statements": "1. Prednisone is a synthetic drug that derives from cortisone."
+	},
+
+	{
+		"id": 43,
+		"type": "informational",
+		"question": "What does proton pump inhibitor do?",
+		"physician_answer": "Proton pump inhibitors (PPIs) are a class of medications that suppress the production of stomach acid. They work by inhibiting an enzyme in the cells of the stomach wall, which controls acid production. PPIs, such as omeprazole (Prilosec) and pantoprazole (Protonix), are used to treat conditions that are caused by the overproduction of stomach acid or worsened by stomach acid, such as acid reflux (gastroesophageal reflux disease), and peptic ulcer disease. They are also used in combination with certain antibiotics for the eradication of Helicobacter pylori infection, which is associated with peptic ulcers.",
+		"must_have_statements": "1. Proton pump inhibitors (PPIs) are a class of medications that suppress the production of stomach acid."
+	},
+
+	{
+		"id": 44,
+		"type": "informational",
+		"question": "What exactly is cervical radiculopathy?",
+		"physician_answer": "Cervical radiculopathy is a condition affecting the nervous system that occurs when a nerve root in the spine is compressed due to a cervical spine pathology, such as a herniated or bulging disc, osteoarthritis, or spondylosis. This compression causes pain in the neck, shoulder, or arm, and may include other neurological issues, including paresthesia, muscle weakness, and impaired reflexes. The onset of symptoms can be sudden or gradual, depending on the cause of the compression. Diagnosis of cervical radiculopathy is based on clinical presentation, and imaging with MRI is the preferred test to identify the underlying cause. Treatment typically involves pain management, physiotherapy and referral to an orthopedic or neurosurgeon to address the root cause of the issue.",
+		"must_have_statements": "1. Cervical radiculopathy is a neurological condition caused by compression of a nerve root in the spine.\n2. The compression in cervical radiculopathy can be due to a cervical spine pathology such as a herniated or bulging disc.\n3. The compression in cervical radiculopathy can be due to a cervical spine pathology such as osteoarthritis.\n4. Cervical radiculopathy can sometimes present with neurological defects such as paresthesia.\n5. Cervical radiculopathy can sometimes present with neurological defects such as impaired reflexes.\n6. Cervical radiculopathy can sometimes present with neurological defects such as muscle weakness."
+	},
+
+	{
+		"id": 45,
+		"type": "informational",
+		"question": "What is augmentin",
+		"physician_answer": "Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria. This drug consists of Amoxicillin, which is a penicillin antibiotic that fights against bacteria, and Clavulanic acid, which is a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to Amoxicillin.\n",
+		"must_have_statements": "1. Amoxicillin with Clavulanic acid (Augmentin) is a prescription antibiotic drug used to treat many different infections caused by bacteria.\n2. Augmentin contains Clavulanic acid, a beta-lactamase inhibitor that helps to treat and prevent certain bacteria resistance to amoxicillin.\n3. Augmentin contains  Amoxicillin, which is a penicillin antibiotic that fights against bacteria."
+	},
+
+	{
+		"id": 46,
+		"type": "informational",
+		"question": "What is the most safe amount of Advil to take at one time",
+		"physician_answer": "The maximal safe amount of Ibuprofen (Advil, Motrin) for healthy adults is 800 milligrams per dose or 3200 mg per day (4 maximum doses), and this dose is only safe as a short-term treatment and not for chronic use. It is safest to use the lowest effective dose for the shortest duration of time in order to avoid unwanted side effects. It is advisable to consult your healthcare provider before the initialization of the medication if you have chronic medical conditions such as renal or hepatic impairment.",
+		"must_have_statements": "1. The maximal safe amount of Ibuprofen (Advil, Motrin) for healthy adults is 800 milligrams per dose.\n2. The maximal safe amount of Ibuprofen (Advil, Motrin) for healthy adults is 3200 mg per day (4 maximum doses).\n3. This dose of Ibuprofen (Advil, Motrin) is only safe as a short-term treatment and not for chronic use.\n4. It is safest to use the lowest effective dose of Ibuprofen (Advil, Motrin).\n5. It is safest to use Ibuprofen (Advil, Motrin) for the shortest duration of time to avoid unwanted side effects."
+	},
+
+	{
+		"id": 47,
+		"type": "informational",
+		"question": "Is pepto peptobismol?",
+		"physician_answer": "Yes, Pepto refers to the medication Bismuth subsalicylate (Pepto-Bismol, Pepti-Calm).",
+		"must_have_statements": "1. Pepto refers to the medication Bismuth subsalicylate (Pepto-Bismol, Pepti-Calm)."
+	},
+
+	{
+		"id": 48,
+		"type": "informational",
+		"question": "Does low thyroid contribute to weight gain?",
+		"physician_answer": "When thyroid function is low, it can lead to a reduction in metabolic rate and modest weight gain. However, this weight gain is typically only around 5-10 pounds and is not commonly associated with severe obesity. Treating and balancing thyroid function can help with weight loss. If you suspect you have low thyroid function, it is important to consult your healthcare provider for assessment and treatment.",
+		"must_have_statements": "1. Treating and balancing thyroid function can help with losing the weight gained due to this condition.\n2. If you have, or suspect you have a low thyroid function, it is important to consult your healthcare provider about assessment and treatment.\n3. Decreased activity due to fatigue from low thyroid function can contribute to weight gain.\n4. Low thyroid function can reduce the metabolic rate.\n5. Low thyroid function can cause accumulation of fluid in the body.\n6. Low thyroid function can cause a modest weight gain."
+	},
+
+	{
+		"id": 49,
+		"type": "informational",
+		"question": "Does Allopurinal affect fertility?",
+		"physician_answer": "Allopurinol (Zyloprim, Lopurin, Aloprim) is a prescription medication used to treat gout, high levels of uric acid in the blood, and recurrent uric acid kidney stones. It may cause side effects such as rash, joint pain, stiffness, or swelling. Male infertility has been reported in less than 1% of patients taking the drug while a similar association has not been found for female infertility. However, pregnant or breastfeeding women should consider alternatives due to the lack of safety information.",
+		"must_have_statements": "1. Male infertility has been associated with Allopurinol in less than 1% of patients taking the drug.\n2. No association was found between Allopurinol and female infertility.\n3. Alternatives for Allopurinol should be considered while pregnant or breastfeeding."
+	},
+
+	{
+		"id": 50,
+		"type": "informational",
+		"question": "Is Saxenda a daily injection?",
+		"physician_answer": "Saxenda is an injection given once a day under the skin (subcutaneous) from a multi-dose injection pen, and it is suitable for self-injection after receiving a proper explanation about how to do so.",
+		"must_have_statements": "1. Saxenda is administered as a daily injection.\n2. Saxenda is delivered from a multi-dose injection pen."
+	},
+
+	{
+		"id": 51,
+		"type": "informational",
+		"question": "Is the loss of hearing consistent with outer ear infection and not inner?",
+		"physician_answer": "Hearing loss can occur due to ear infections affecting any part of the ear. If you experience sudden hearing loss, seeking medical attention promptly for diagnosis and treatment is crucial.",
+		"must_have_statements": "1. Hearing loss can be consistent with ear infection in all parts of the ear.\n2. If you suffer from an acute hearing loss, you should contact your healthcare provider for diagnosis and treatment."
+	},
+
+	{
+		"id": 52,
+		"type": "informational",
+		"question": "What type of bacteria causes Folliculitis?",
+		"physician_answer": "Folliculitis is most commonly caused by the bacteria Staphylococcus aureus. Other bacteria like Staphylococcus epidermidis, Staphylococcus capitis, Pseudomonas aeruginosa have also been linked to folliculitis. Additionally, folliculitis can be caused by less common factors such as viruses, fungi, parasites, and non-infectious diseases.",
+		"must_have_statements": "1. Staphylococcus capitis has been associated with folliculitis.\n2. Pseudomonas aeruginosa has been associated with folliculitis.\n3. The bacteria Staphylococcus aureus is the most common cause of folliculitis.\n4. Staphylococcus epidermidis has been associated with folliculitis."
+	},
+
+	{
+		"id": 53,
+		"type": "informational",
+		"question": "Whats Keratosis Pilaris",
+		"physician_answer": "Keratosis pilaris is a skin condition among young adults, where small bumps of excess keratin develop on your skin, usually on your arms and legs. It is often seen in association with other skin conditions such as atopic dermatitis and ichthyosis vulgaris. This condition is painless, but the skin around it might be itchy, dry, rough or discolored, and it may make you feel self-conscious or insecure about your appearance. Keratosis pilaris typically doesn\\u2019t require treatment, and usually fades by age 30. Possible treatments are aimed at preventing excessive skin dryness, including using mild soaps or soap-free cleansers and avoiding hot baths or showers. Treatments include applying on the affected areas an over the counter moisturizer, preferably with ammonium lactate (AmLactin) or with alpha hydroxyl acids (CeraVe), or using topical retinoids such as Tretinoin (Retin-A, Altreno), Adapalene (Differin) and Tazarotene (Arazlo,Tazorac). Possible treatment for refractory condition include systemic retinoids, laser therapy, or other ablative procedures.",
+		"must_have_statements": "1. Keratosis pilaris is characterized by small bumps of excess keratin developing on your skin, usually on your arms and legs.\n2. Keratosis pilaris is a skin condition among young adults."
+	},
+
+	{
+		"id": 54,
+		"type": "informational",
+		"question": "Whats menigitis?",
+		"physician_answer": "Meningitis is when the tissues surrounding the brain and spinal cord become inflamed, most commonly due to an infection. Several species of bacteria, viruses, fungi, and parasites can cause this infection. Symptoms of meningitis usually include high fever, headaches, and sensitivity to light or sounds, and may consist of neck pain when bending over. A diagnosis is made through a lumbar puncture, which evaluates the cerebrospinal fluid (CSF) surrounding the brain and spinal cord. Immediate treatment is essential and should be based on the cause of the meningitis.",
+		"must_have_statements": "1. Meningitis usually presents with headaches.\n2. Meningitis is the inflammation of the tissues surrounding the brain and spinal cord.\n3. Meningitis usually presents with high fever.\n4. Meningitis is usually caused by an infection.\n5. Meningitis usually presents with sensitivity to light or sounds.\n6. Meningitis may presents with pain when the head is bent over.\n7. Treatment for meningitis should be started immediately according to the cause.\n8. Diagnosis of meningitis is made by lumber puncture which allows evaluation of the cerebrospinal fluid (CSF) surrounding the brain and spinal cord."
+	},
+
+	{
+		"id": 55,
+		"type": "informational",
+		"question": "Would high heart rate be caused by being overweight at all?",
+		"physician_answer": "A normal heart rate is between 60 and 100 beats per minute (bpm). If your heart rate is over 100 bpm, it's considered fast and is called tachycardia. While studies have shown a relationship between being overweight and having sympathetic overactivity (which can cause high blood pressure and tachycardia), most overweight individuals do not experience sinus tachycardia. However, overweight people are more prone to illnesses such as diabetes and cardiovascular diseases, which can lead to tachycardia. If you experience tachycardia while at rest for no apparent reason, it's important to see a doctor for evaluation.",
+		"must_have_statements": "1. Most overweight individuals do not present with sinus tachycardia.\n2. If tachycardia appears while resting, for no apparent reason, it is recommended to be evaluated by a physician.\n3. Overweight individuals may experience sympathetic overactivity, which can cause elevated blood pressure and tachycardia."
+	},
+
+	{
+		"id": 56,
+		"type": "informational",
+		"question": "would standard urinalysis detect kidney stones?",
+		"physician_answer": "Kidney stones are suspected in patients with one-sided flank or groin pain and may present with bloody urine. Physicians should evaluate these patients and conduct laboratory testing and imaging. Blood samples should be taken to assess kidney functions, metabolic state, and inflammatory markers, while a standard urinalysis and microscopic urine examination are used to detect potential hematuria and crystals and rule out urinary tract infections. However, a formal diagnosis of kidney stones requires imaging, usually a non-contrast computed tomography (NCCT) of the abdomen and pelvis.\n",
+		"must_have_statements": "1. A standard urinalysis is used to detect potential hematuria and rule out urinary tract infections in patients with suspected kidney stones.\n2. A formal diagnosis of kidney stones requires imaging.\n3. Microscopic urine examination can be useful in detecting crystals in the urine.\n4. Non-contrast computed tomography (NCCT) of the abdomen and pelvis is usually used for diagnosing kidney stones."
+	},
+
+	{
+		"id": 57,
+		"type": "informational",
+		"question": "What causes genital warts?",
+		"physician_answer": "Anogenital warts, also called Condyloma acuminata, are a sign of HPV infection. These soft and raised lesions appear around the genital area or anus and are usually not painful, but may be bothersome in some cases. HPV is transmitted through contact with infected skin or mucosa and is commonly acquired through sexual contact. While warts are not necessary for transmission, they are highly contagious.",
+		"must_have_statements": "1. Condyloma acuminata, also known as anogenital warts, are manifestations of HPV infection that occur in the anogenital area."
+	},
+
+	{
+		"id": 58,
+		"type": "informational",
+		"question": "Is ambien considered a controlled substance?",
+		"physician_answer": "Ambien, also known as Zolpidem, is classified as a federally controlled substance by the Drug Enforcement Administration (DEA) due to its potential to cause dependence or addiction if abused or misused. If your healthcare provider prescribes this medication to you, it is important to consult with them about its benefits, risks, and proper use.",
+		"must_have_statements": "1. Zolpidem (Ambien) might be abused and misused and may lead to dependence or addiction.\n2. If prescribed Zolpidem (Ambien), one should consult their healthcare provider about benefits, risks and proper use of this drug.\n3. Zolpidem (Ambien) is classified by the DEA (Drug Enforcement Administration) as a federally controlled substance."
+	},
+
+	{
+		"id": 59,
+		"type": "informational",
+		"question": "Is a yeast infection not transferable?",
+		"physician_answer": "Yeast is a type of fungus that can be found on various parts of the body, such as the skin, digestive system, and genital area. When there is a shift in the balance between yeast and other factors in the body, such as the chemical environment, immune system, and bacteria, it can lead to a yeast infection. Since yeast is a natural part of the body's ecosystem, infections are not considered contagious and are not referred to as such.",
+		"must_have_statements": "1. Yeast infection is not thought to be transferable and is not referred to as one.\n2. Yeasts are a natural part of the body ecosystem."
+	},
+
+	{
+		"id": 60,
+		"type": "informational",
+		"question": "what causes ringworm?",
+		"physician_answer": "Ringworm is a contagious skin infection caused by fungi. It is characterized by a circular, red, and itchy rash and can affect the skin, hair, and nails. The infection can be transmitted through contact with people or pets, as well as through shared spaces like locker rooms and shower stalls.Treatment usually consists of topical antifungal drugs.",
+		"must_have_statements": "1. Ringworm is a contagious skin infection caused by fungi.\n2. Ringworm can be transmitted through contact with people or pets.\n3. Ringworm can be transmitted through shared spaces like locker rooms and shower stalls."
+	}
+]
