@@ -1,7 +1,7 @@
 # LLM Medical Consistency Study
 
 Tests whether consumer-facing LLMs give consistent and medically accurate
-answers, based on the framework from Patwardhan, Vaidya & Kundu (2025).
+answers, inspired by the framework from Patwardhan, Vaidya & Kundu (2025).
 
 ## Setup
 
