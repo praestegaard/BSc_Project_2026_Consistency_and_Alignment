@@ -47,4 +47,4 @@ CROSS_ANALYSIS_FILE = f"{RESULTS_DIR}/cross_algorithm_analysis.json"
 
 MAX_RETRIES = 5
 RETRY_DELAY_SECONDS = 20
-REQUEST_DELAY_SECONDS = 5   # courtesy delay so we don't hammer the APIs
+REQUEST_DELAY_SECONDS = 5   # courtesy delay so the APIs are not overloaded
