@@ -28,8 +28,8 @@ python run_study.py --step 4     # cross-analysis spreadsheet (no API calls)
 python spearman_analysis.py      # Spearman correlations (no API calls)
 ```
 
-Everything saves after each API call, so interrupted runs can be resumed
-by just re-running the same command.
+Everything saves after each API call, interrupted runs can be resumed
+by re-running the same command.
 
 ## Questions format
 
