@@ -192,7 +192,6 @@ def run():
             ws.cell(row=current_row, column=col_idx, value=header)
         current_row += 1
 
-        # situational first, then blank row, then informational
         for row_data in rows_by_type.get("situational", []):
             for col_idx, value in enumerate(row_data, start=1):
                 ws.cell(row=current_row, column=col_idx, value=value)
