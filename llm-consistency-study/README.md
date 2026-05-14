@@ -25,6 +25,7 @@ python run_study.py --step 1     # Algorithm 1: consistency
 python run_study.py --step 2     # Algorithm 2: self-evaluation
 python run_study.py --step 3     # Algorithm 3: cross-evaluation
 python run_study.py --step 4     # cross-analysis spreadsheet (no API calls)
+python spearman_analysis.py      # Spearman correlations (no API calls)
 ```
 
 Everything saves after each API call, so interrupted runs can be resumed
