@@ -78,7 +78,6 @@ def collect_responses(questions):
                     logger.error("FAILED %s run %d: %s", key, i + 1, exc)
                     responses[key]["responses"].append(None)
 
-                # save after every call so nothing is lost on crash
                 save_responses(responses)
 
     return responses
@@ -98,7 +97,7 @@ def compute_similarity_scores(responses):
             logger.info("Similarity %s  pair (%d, %d)", key, i, j)
             pair_scores.append({"pair": [i, j], "scores": compute_all(resps[i], resps[j])})
 
-        # average each metric across all C(K,2) pairs
+        # average scores across response pairs
         averages = {}
         for m in METRIC_NAMES:
             vals = [p["scores"][m] for p in pair_scores]
