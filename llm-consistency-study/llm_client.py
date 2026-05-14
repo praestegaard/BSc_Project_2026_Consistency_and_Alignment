@@ -65,7 +65,7 @@ def _call_anthropic(model_id, prompt, system_prompt):
     if not api_key:
         raise EnvironmentError("ANTHROPIC_API_KEY not set")
 
-    # max_retries=0 because we handle retries ourselves
+    # max_retries=0, retries handled elsewhere
     client = anthropic.Anthropic(api_key=api_key, max_retries=0)
 
     kwargs = {
