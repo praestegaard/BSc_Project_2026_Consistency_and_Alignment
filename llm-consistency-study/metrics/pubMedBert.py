@@ -4,7 +4,8 @@ import numpy as np
 # NeuML/pubmedbert-base-embeddings, pretrained on PubMed abstracts, should handle medical terminology better than a general model.
 # https://huggingface.co/NeuML/pubmedbert-base-embeddings
 
-model = SentenceTransformer("NeuML/pubmedbert-base-embeddings")
+model = SentenceTransformer("NeuML/pubmedbert-base-embeddings",
+                             revision="b79526d6ef3645e0df4530322e266f24c829f5ef",)
 
 def pubMedBert_similarity(response_1: str, response_2: str) -> float:
     """Embedding cosine similarity via PubMedBERT, scaled to 0-100."""

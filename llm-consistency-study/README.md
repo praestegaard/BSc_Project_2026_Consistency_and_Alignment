@@ -3,6 +3,26 @@
 Tests whether consumer-facing LLMs give consistent and medically accurate answers.
 The project adapts the consistency evaluation framework proposed by Patwardhan, Vaidya and Kundu (2025) (https://arxiv.org/abs/2502.07036) to the medical domain.
 
+## Study Setup
+
+60 questions are used, 45 informational and 15 situational.  
+Alignments threshold is 0.80 
+Each question is sent five times to each model (K = 5)
+
+The following four models were used for the experiment 
+
+| Key     | Model | model_id            |
+|---------| --- |---------------------|
+| chatgpt | ChatGPT (GPT-5.3 Instant) | gpt-5.3-chat-latest |
+| claude  | Claude (Sonnet 4.6) | claude-sonnet-4-6   |
+| gemini  | Gemini (3 Flash) | gemini-3-flash-preview |
+| mistral | Le Chat (Mistral Medium latest) | mistral-medium-latest |
+
+Each model is the default model offered to free-tier consumers as of April 2026.
+Experiments were run on 16th of April 2026 between 11:00 and 14:00 CEST. 
+
+No sampling parameters or seed values were set by the client, instead each provider's defaults apply.
+
 ## Setup
 
 ```bash
